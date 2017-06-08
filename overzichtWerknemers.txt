@@ -1,0 +1,9 @@
+bestelling               achternaam               product        aantal         
+================================================================================
+pietje                   bell                     3197KG                   010                      
+a                        bakker                   3197KG                   0101                     
+pietje                   Bell                     3197KG                   0101                     
+pietje                   Bell                     3197KG                   018145759                
+m                        bakker                   3206SL                   018145759                
+m                        bakker                   3197KG                   123                      
+                                                                                                    
